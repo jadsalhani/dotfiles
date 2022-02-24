@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = salhanijad@gmail.com
+	name = Jad Salhani
